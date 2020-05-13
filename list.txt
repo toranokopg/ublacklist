@@ -27,3 +27,4 @@
 *://www.matools.com/*
 *://www.soolide.com/*
 *://www.pinterest.jp/*
+*://my-best.com/*
