@@ -29,3 +29,7 @@
 /.*pinterest.*/
 *://my-best.com/*
 *://daviesmediadesign.com/*
+*://techacademy.jp/*
+/.*udemy.*/
+*://dev.classmethod.jp/*
+*://www.sejuku.net/*
