@@ -26,6 +26,6 @@
 *://www.it-swarm.net/*
 *://www.matools.com/*
 *://www.soolide.com/*
-*://www.pinterest.jp/*
+/.*pinterest.*/
 *://my-best.com/*
 *://daviesmediadesign.com/*
