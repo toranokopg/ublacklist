@@ -22,8 +22,7 @@
 *://www.codeflow.site/*
 *://www.dev4app.com/*
 *://www.hatsune.info/*
-*://www.it-swarm.dev/*
-*://www.it-swarm.net/*
+/.*it-swarm.*/
 *://www.matools.com/*
 *://www.soolide.com/*
 /.*pinterest.*/
