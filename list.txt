@@ -1,3 +1,4 @@
+*://cloud6.net/*
 *://code-examples.net/*
 *://codechacha.com/*
 *://codeday.me/*
@@ -26,6 +27,7 @@
 *://www.codeflow.site/*
 *://www.dev4app.com/*
 *://www.hatsune.info/*
+*://www.javaer101.com/*
 *://www.matools.com/*
 *://www.sejuku.net/*
 *://www.soolide.com/*
