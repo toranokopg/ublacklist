@@ -1,3 +1,4 @@
+*://base64.work/*
 *://bleepcoder.com/*
 *://cloud6.net/*
 *://code-examples.net/*
