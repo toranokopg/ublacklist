@@ -25,6 +25,7 @@
 *://webapps.stackovernet.com/*
 *://www.366service.com/*
 *://www.apowersoft.jp/*
+*://www.atmarkit.co.jp/*
 *://www.code-adviser.com/*
 *://www.codeflow.site/*
 *://www.dev4app.com/*
