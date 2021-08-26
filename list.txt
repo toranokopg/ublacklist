@@ -21,6 +21,7 @@
 *://src-bin.com/*
 *://stackoverrun.com/*
 *://techacademy.jp/*
+*://try2explore.com/*
 *://tutorialmore.com/*
 *://webapps.stackovernet.com/*
 *://www.366service.com/*
@@ -30,6 +31,7 @@
 *://www.codeflow.site/*
 *://www.dev4app.com/*
 *://www.hatsune.info/*
+*://www.it-mure.jp.net/*
 *://www.javaer101.com/*
 *://www.matools.com/*
 *://www.sejuku.net/*
