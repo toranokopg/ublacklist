@@ -12,6 +12,7 @@
 *://ja.ojit.com/*
 *://ja.programqa.com/*
 *://ja.voidcc.com/*
+*://jpcodeqa.com/*
 *://kotaeta.com/*
 *://living-sun.com/*
 *://matome.naver.jp/*
